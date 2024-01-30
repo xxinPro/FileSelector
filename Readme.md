@@ -797,19 +797,16 @@ FileSelector.create(this)
 
 ## 功能演示
 
-|                            功能列表                            |
-|:----------------------------------------------------------:|
-| <img src="./image/selector-test.jpg" style="zoom: 33%;" /> |
+|              默认样式              |             自定义样式1              |             自定义样式2             |
+|:------------------------------:|:-------------------------------:|:------------------------------:|
+| ![](./image/selector-home.jpg) | ![](./image/selector-black.jpg) | ![](./image/selector-pink.jpg) |
 
-|              主页面               |              访问data目录              |             文件选择              |
+|              功能列表              |                访问目录                |             文件选择              |
 |:------------------------------:|:----------------------------------:|:-----------------------------:|
-| ![](./image/selector-home.jpg) | ![](./image/selector-data-dir.jpg) | ![](./image/start-select.jpg) |
+| ![](./image/selector-test.jpg) | ![](./image/selector-data-dir.jpg) | ![](./image/start-select.jpg) |
 
 |             设置初始路径             |               仅选择文件               |              仅显示文件夹               |
 |:------------------------------:|:---------------------------------:|:---------------------------------:|
 | ![](./image/set-init-path.jpg) | ![](./image/only-select-file.jpg) | ![](./image/only-show-folder.jpg) |
 
-|                           自定义样式1                           |                          自定义样式2                           |
-|:----------------------------------------------------------:|:---------------------------------------------------------:|
-| <img src="./image/selector-black.jpg" style="zoom:33%;" /> | <img src="./image/selector-pink.jpg" style="zoom:33%;" /> |
 
