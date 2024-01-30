@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#4895ff</color>
+    <color name="red">@android:color/holo_red_light</color>
+    <color name="pink">#faabd8</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="white_transparent">#80FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:parentTag="android.widget.RelativeLayout">
+
+    <xyz.xxin.fileselector.views.FileSelectorListView
+        android:id="@+id/file_refresh_list"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/file_path_bar"
+        android:layout_above="@+id/file_foot_bar"
+        android:layout_height="match_parent"/>
+
+    <xyz.xxin.fileselector.views.FileSelectorPathBar
+        android:id="@+id/file_path_bar"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:layout_below="@+id/file_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <xyz.xxin.fileselector.views.FileSelectorTitleBar
+        android:id="@+id/file_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+    <xyz.xxin.fileselector.views.FileSelectorFootBar
+        android:id="@+id/file_foot_bar"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</merge>

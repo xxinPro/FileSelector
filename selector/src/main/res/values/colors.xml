@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fs_blue">#4895ff</color>
+    <color name="fs_light_yellow">#fff6cc</color>
+    <color name="fs_light_gray">#eaeaea</color>
+    <color name="fs_dark_gray">#757575</color>
+    <color name="fs_white">#ffffff</color>
+    <color name="fs_black">#000000</color>
+    <color name="fs_transparent">#00000000</color>
+</resources>

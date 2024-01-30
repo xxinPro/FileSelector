@@ -1,0 +1,19 @@
+<resources>
+    <string name="fs_file_name">文件名</string>
+    <string name="fs_file_time">文件修改时间</string>
+    <string name="fs_file_size">文件大小</string>
+    <string name="fs_folder_empty">文件夹为空</string>
+    <string name="fs_current_path">当前路径</string>
+    <string name="fs_select_start">选择</string>
+    <string name="fs_select_cancel">取消</string>
+    <string name="fs_title_bar_text">请选择文件</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="file_count_tip">文件：</string>
+    <string name="folder_count_tip">文件夹：</string>
+    <string name="select_all">全选</string>
+    <string name="deselect_all">全不选</string>
+    <string name="confirm">确定</string>
+    <string name="loading">正在加载</string>
+    <string name="zero">0</string>
+</resources>
